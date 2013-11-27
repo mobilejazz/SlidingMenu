@@ -18,3 +18,5 @@ gen
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 local.properties
+library/build/
+*.iml
